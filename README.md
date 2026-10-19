@@ -21,11 +21,8 @@ This repository documents the progress, code, and assets for an image-to-video g
   - Scene configurations for eagle and palm sketches.
 
 ## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-Code and assets generated with AI assistance (ChatGPT). All outputs are owned by the repository author.
-
+   This project is distributed under the **All Rights Reserved (Non-Commercial Use Only)**. 
+   Commercial use is strictly prohibited. See the [LICENSE](LICENSE) file for details.
 ---
 
 *Copyright (c) 2026 D1G1TAL, a project supported by Blue Screen Studios.*
